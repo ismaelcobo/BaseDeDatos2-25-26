@@ -37,7 +37,7 @@
     - [x] [Embeddings: fundamentos e intuición](Parcial2/4-Vectoriales/2-embeddings)
     - [x] [Búsqueda y estructuras](Parcial2/4-Vectoriales/3-busquedas)
     - [x] [Pipeline completo](Parcial2/4-Vectoriales/4-pipeline)
-    - [x] [Integración y taller: mini buscador semántico](Parcial2/4-Vectoriales/6-taller)
+    - [x] [Integración y taller: mini buscador semántico](Parcial2/4-Vectoriales/5-taller)
   - [ ] Examen del Segundo Parcial
   - [ ] Revisión del Examen del Segundo Parcial
 - [ ] Examen Final
