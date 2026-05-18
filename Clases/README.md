@@ -17,7 +17,7 @@
     - [x] [Práctica Avanzada: Modelado Avanzado y Patrones de Diseño](Parcial1/2-MONGODB/6-modelado-avanzado)
     - [x] [Teoría: Seguridad, Validación y Control de Acceso en MongoDB](Parcial1/2-MONGODB/7-seguridad-control)
     - [x] [Taller: Casos Reales (evaluación contínua)](Parcial1/2-MONGODB/8-taller-casos-reales)
-  - [x] [Examen del Primer Parcial](../../evaluaciones/examenes/examenParcial1)
+  - [x] [Examen del Primer Parcial](../../evaluaciones/examenes/examenParcial1/)
   - [x] Revisión del Examen del Primer Parcial
 - [ ] Segundo Parcial
   
@@ -38,7 +38,7 @@
     - [x] [Búsqueda y estructuras](Parcial2/4-Vectoriales/3-busquedas)
     - [x] [Pipeline completo](Parcial2/4-Vectoriales/4-pipeline)
     - [x] [Integración y taller: mini buscador semántico](Parcial2/4-Vectoriales/5-taller)
-  - [x] [Examen del Segundo Parcial](../../evaluaciones/examenes/examenParcial2)
+  - [x] [Examen del Segundo Parcial](../../evaluaciones/examenes/examenParcial2/)
   - [ ] Revisión del Examen del Segundo Parcial
 - [ ] Examen Final
 - [ ] Revisión del Examen Final
